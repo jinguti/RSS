@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="2.0">
+	<channel>
+		<title>Mi RSS</title>
+		<link>https://github.com/jinguti/AlvaroPrueba/blob/master/prueba</link>
+		<description>Noticias de actualidad.</description>
+		<item>
+			<title>Política</title>
+			<link>https://elpais.com/politica/</link>
+			<description>Noticias de política en El País.</description>
+			<guid>https://github.com/jinguti/politica</guid>
+		</item>
+	</channel>
+</rss>
